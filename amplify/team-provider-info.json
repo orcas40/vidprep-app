@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vidprepapp-dev-145616-authRole",
+      "UnauthRoleArn": "arn:aws:iam::936314801243:role/amplify-vidprepapp-dev-145616-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::936314801243:role/amplify-vidprepapp-dev-145616-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-vidprepapp-dev-145616-deployment",
+      "UnauthRoleName": "amplify-vidprepapp-dev-145616-unauthRole",
+      "StackName": "amplify-vidprepapp-dev-145616",
+      "StackId": "arn:aws:cloudformation:us-west-2:936314801243:stack/amplify-vidprepapp-dev-145616/8649e270-c144-11ee-95ab-0244af2f5653",
+      "AmplifyAppId": "dhg30wpxmjers"
+    }
+  }
+}
